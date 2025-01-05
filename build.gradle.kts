@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "io.github.whiskydog"
-version = "1.0"
+version = "1.0.0"
 
 application {
     mainClass = "io.github.whiskydog.task_cli.Main"
